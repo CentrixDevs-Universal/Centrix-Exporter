@@ -121,10 +121,10 @@ namespace SAPAutoSync_1._0
                     Console.WriteLine("Deleting old files...");
                     //********
                     path = rootPath + @"Export\";
-                    deleteOldFilesDays(path, -10);
+                    deleteOldFilesDays(path, -21);
 
                     path = rootPath + @"Export\Archive\";
-                    deleteOldFilesDays(path, -10);
+                    deleteOldFilesDays(path, -21);
                     //string[] filePaths = Directory.GetFiles(path = rootPath + @"Export\");
                     //foreach (string filePath in filePaths)
                     //    File.Delete(filePath);

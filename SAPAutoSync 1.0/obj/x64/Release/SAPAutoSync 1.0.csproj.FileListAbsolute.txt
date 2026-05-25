@@ -1,0 +1,9 @@
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\bin\x64\Release\WinSCP.exe
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\bin\x64\Release\SAPAutoSync 1.0.exe
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\bin\x64\Release\SAPAutoSync 1.0.pdb
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\bin\x64\Release\WinSCPnet.dll
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\obj\x64\Release\SAPAutoSync 1.0.csproj.AssemblyReference.cache
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\obj\x64\Release\SAPAutoSync 1.0.csproj.CoreCompileInputs.cache
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\obj\x64\Release\SAPAutoSync 1.0.csproj.CopyComplete
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\obj\x64\Release\SAPAutoSync 1.0.exe
+C:\CentrixDevs\Universal\CentrixExporter\SAPAutoSync 1.0\obj\x64\Release\SAPAutoSync 1.0.pdb
